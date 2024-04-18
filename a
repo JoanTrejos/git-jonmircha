@@ -1,0 +1,80 @@
+[33mcommit d31de1ac32cc3af4117d98e40438f03a51547772[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m)[m
+Author: JxbxT <131227060+JoanTrejos@users.noreply.github.com>
+Date:   Thu Apr 18 14:12:43 2024 -0500
+
+    Agregando estaciones del año
+
+[33mcommit d126dd40e777ae5f5f45303ad548adef0227f92a[m[33m ([m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Merge: 697bcc3 a640d61
+Author: JxbxT <131227060+JoanTrejos@users.noreply.github.com>
+Date:   Thu Apr 18 14:09:31 2024 -0500
+
+    resolviendo conflicto main/html
+
+[33mcommit a640d61cccd8b538930e087d28439b518446dea8[m[33m ([m[1;32mhtml[m[33m)[m
+Author: JxbxT <131227060+JoanTrejos@users.noreply.github.com>
+Date:   Thu Apr 18 14:04:36 2024 -0500
+
+    Se agrega contenido al index.html
+
+[33mcommit 697bcc3e0efa084977e22f7a9e36e7f7d5a86a58[m
+Author: JxbxT <131227060+JoanTrejos@users.noreply.github.com>
+Date:   Thu Apr 18 14:03:29 2024 -0500
+
+    Se agrega contenido al index.html
+
+[33mcommit f20190179e4f6bebad16a912e18f3d0b975e9e32[m
+Merge: 1738713 a7a87d4
+Author: JxbxT <131227060+JoanTrejos@users.noreply.github.com>
+Date:   Thu Apr 18 13:54:31 2024 -0500
+
+    Merge branch 'css'
+
+[33mcommit 1738713a324649afd836ce872fbb5be05dc02587[m
+Merge: 250f8b3 c591d92
+Author: JxbxT <131227060+JoanTrejos@users.noreply.github.com>
+Date:   Thu Apr 18 13:53:33 2024 -0500
+
+    Merge branch 'html'
+
+[33mcommit 250f8b39e0374881bf4b2832b55d0e24857d7d5f[m
+Author: JxbxT <131227060+JoanTrejos@users.noreply.github.com>
+Date:   Thu Apr 18 13:46:52 2024 -0500
+
+    Se agrega js.js
+
+[33mcommit a7a87d4cab2555d9a5eef02e84e3ca664a918cf8[m
+Author: JxbxT <131227060+JoanTrejos@users.noreply.github.com>
+Date:   Thu Apr 18 13:44:33 2024 -0500
+
+    Se agrega style.css
+
+[33mcommit c591d920a8bf67492c4201474d21d4ce91a1d0c3[m
+Author: JxbxT <131227060+JoanTrejos@users.noreply.github.com>
+Date:   Thu Apr 18 13:40:40 2024 -0500
+
+    Se agrega index.html
+
+[33mcommit d64e5d7e929fbf839922e3b4a967dd9a2d23bd99[m
+Author: Jstx <131227060+JoanTrejos@users.noreply.github.com>
+Date:   Thu Apr 18 00:00:12 2024 -0500
+
+    Create LICENSE
+
+[33mcommit 0289167fad59571b3957f9e1305fcf67c9afabe1[m
+Author: JxbxT <131227060+JoanTrejos@users.noreply.github.com>
+Date:   Wed Apr 17 23:52:28 2024 -0500
+
+    Se agrega más contenido al README.md :smile_cat:
+
+[33mcommit ec59bb5430b9ed50571ac0d96015fe6db6b3fe6b[m
+Author: JxbxT <131227060+JoanTrejos@users.noreply.github.com>
+Date:   Wed Apr 17 23:40:35 2024 -0500
+
+    Se agrega contenido al README.md �
+
+[33mcommit 901c38afa00ca3caba8951f3839208aa3cdc3906[m
+Author: JxbxT <131227060+JoanTrejos@users.noreply.github.com>
+Date:   Wed Apr 17 23:27:29 2024 -0500
+
+    Primer commmit :hugs:
