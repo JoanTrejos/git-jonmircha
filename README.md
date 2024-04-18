@@ -1,3 +1,5 @@
 # Curso de Git & GitHub
 
-Aprendiendo Git & GitHub con John Mircha
+Aprendiendo _Git & GitHub_ con John Mircha 😎
+
+Agregando más contenido al _README.md_
